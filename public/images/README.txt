@@ -1,0 +1,1 @@
+Copy your existing jacob-1-front.png and jacob-1-back.png here.

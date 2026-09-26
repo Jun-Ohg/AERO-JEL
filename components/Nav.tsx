@@ -1,0 +1,2 @@
+import Link from "next/link";
+export default function Nav(){return <header className="nav-wrap"><nav className="nav"><Link href="/" className="logo">AERO:JEL</Link><div className="nav-links"><Link href="/about">ABOUT</Link><Link href="/projects/propulsion">PROPULSION</Link><Link href="/projects/launch-vehicles">LAUNCH VEHICLES</Link><Link href="/projects/flight-computing">FLIGHT COMPUTER</Link><Link href="/contact">CONTACT</Link></div></nav></header>}
